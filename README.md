@@ -1,2 +1,5 @@
 # TCS_NQT_Practice
-Here I will upload the codes which I practice .
+This repository contains my practice programs categorized into different folders:
+
+- [Arrays](./arrays/) - Programs related to arrays.
+
